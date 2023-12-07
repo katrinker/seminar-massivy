@@ -2,7 +2,8 @@
 // Найдите количество элементов массива, значения которых лежат в отрезке [20,90].
 
 
-/*int [] array = new int[10];
+/*
+int [] array = new int[10];
 int count = 0;
 
 for(int i = 0; i<array.Length; i++)
@@ -12,12 +13,13 @@ for(int i = 0; i<array.Length; i++)
 
     if (array[i]>=20 && array[i]<=90)
     {
-count = count + 1;
+        count = count + 1;
     }
 
 }
 System.Console.WriteLine();
-System.Console.Write(count " элементов массива, значения которых лежат в отрезке [20,90].");*/
+System.Console.Write(count " элементов массива, значения которых лежат в отрезке [20,90].");
+*/
 
 
 
@@ -26,7 +28,8 @@ System.Console.Write(count " элементов массива, значения
 //Напишите программу, которая определяет количество чётных чисел в массиве.
 
 
-/*int [] array = new int[10];
+/*
+int [] array = new int[10];
 int count = 0;
 
 for(int i = 0; i<array.Length; i++)
@@ -40,11 +43,57 @@ for(int i = 0; i<array.Length; i++)
     }
 }
 System.Console.WriteLine();
-System.Console.Write(count + " четных чисел в массиве");*/
+System.Console.Write(count + " четных чисел в массиве");
+*/
 
 
 
 
 //Задача 3: Задайте массив из вещественных чисел с ненулевой дробной частью.
 // Найдите разницу между максимальным и минимальным элементов массива.
+//Гуглила гуглила, но до конца не понимаю как это работает, и для чего вот эта строчка Random rand = new Random();
+
+/* 
+using System.ComponentModel.DataAnnotations;
+
+
+Console.Write("Введите размерность массива: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+double[] randomArray = new double [num];
+
+{
+double r = 0;
+int i;
+Random rand = new Random();
+for (i = 0; i < num; i++)
+{
+Console.WriteLine();
+
+randomArray[i] = rand.NextDouble()*100;
+Console.Write($"{randomArray[i]} ");
+double max = randomArray[0];
+double min = randomArray[0];
+
+    if(randomArray[i] > max)
+    {
+        max = randomArray[i];
+    }
+    if (randomArray[i] < min)
+    {
+        min = randomArray[i];
+    }
+r = max-min;
+}System.Console.WriteLine("Разница между максимальным и минимальным элементом: " + r);
+}
+*/
+
+
+
+//Задача 4**(не обязательно): Дано натуральное число в диапазоне от 1 до 100 000. 
+//Создайте массив, состоящий из цифр этого числа. 
+//Старший разряд числа должен располагаться на 0-м индексе массива, младший – на последнем. 
+//Размер массива должен быть равен количеству цифр.
+
+
 
