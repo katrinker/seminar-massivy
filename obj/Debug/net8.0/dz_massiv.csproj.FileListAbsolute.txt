@@ -1,0 +1,14 @@
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\bin\Debug\net8.0\dz_massiv.exe
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\bin\Debug\net8.0\dz_massiv.deps.json
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\bin\Debug\net8.0\dz_massiv.runtimeconfig.json
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\bin\Debug\net8.0\dz_massiv.dll
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\bin\Debug\net8.0\dz_massiv.pdb
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\dz_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\dz_massiv.AssemblyInfoInputs.cache
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\dz_massiv.AssemblyInfo.cs
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\dz_massiv.csproj.CoreCompileInputs.cache
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\dz_massiv.dll
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\refint\dz_massiv.dll
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\dz_massiv.pdb
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\dz_massiv.genruntimeconfig.cache
+C:\Users\Катерина\Desktop\обучение\C#\dz_massiv\obj\Debug\net8.0\ref\dz_massiv.dll
