@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dz_massiv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b6346015c85ced389ef2dd503fb5c331802bad1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("dz_massiv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dz_massiv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
