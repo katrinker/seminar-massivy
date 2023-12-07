@@ -96,4 +96,42 @@ r = max-min;
 //Размер массива должен быть равен количеству цифр.
 
 
+Console.WriteLine("Введите число в диапазоне от 1 до 100 000: ");//86 425
+int num = Convert.ToInt32(Console.ReadLine());
 
+int size = 0;
+
+while(num%10 !<=9)
+{
+    size = size +1;
+}
+int[] array = new int[size];
+
+array[size-1] = num%10;
+if (num == 100000)
+{
+    array[0] = num%100000;
+} 
+if (num <= 99999 && num > 9999)
+{
+    array[0] = num%10000;
+}
+if (num <= 9999 && num > 999)
+{
+    array[0] = num%1000;
+}
+if (num <= 999 && num > 99)
+{
+    array[0] = num%100;
+}
+if (num <= 99 && num > 9)
+{
+    array[0] = num%100;
+}
+
+
+for(int i = 0; i<array.Length; i++)
+{
+    System.Console.Write(array[i]+ ", ");
+
+}
